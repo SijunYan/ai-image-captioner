@@ -1,5 +1,5 @@
 # create a virtual environment my_env
-`pip3 install virtualenv`
+`pip install virtualenv`
 `virtualenv my_env`
 `source my_env/bin/activate`
 
